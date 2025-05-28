@@ -5,7 +5,7 @@ Este trabalho teve como objetivo a aplicação prática de técnicas de processa
 
 ### Dataset e Contexto de Negócio
 
-O dataset utilizado foi o ["Big Sales"](https://www.kaggle.com/datasets/pigment/big-sales-data/data) do portal Kaggle. Nele foi escolhido o ficheiro “Liquor_Sales.csv”, com registos de vendas de bebidas alcoólicas no estado de Iowa, EUA (2012-2020), disponibilizado pelo Iowa Department of Revenue, Alcoholic Beverages Division. Este órgão regula a comercialização, fiscalização e distribuição de bebidas alcoólicas no estado.
+O repositório utilizado foi o "Big Sales" do portal Kaggle. Nele foi escolhido o dataset [“Liquor_Sales.csv”](https://www.kaggle.com/datasets/pigment/big-sales-data/data), com registos de vendas de bebidas alcoólicas no estado de Iowa, EUA (2012-2020), disponibilizado pelo Iowa Department of Revenue, Alcoholic Beverages Division. Este órgão regula a comercialização, fiscalização e distribuição de bebidas alcoólicas no estado.
 O dataset possui 24 variáveis que abrangem informações sobre vendas (valores em dólares e volumes), características dos produtos (categorias e embalagens), informações geográficas (endereços, cidades, condados), dados temporais (datas das transações) e informações sobre fornecedores e lojas. Esta diversidade de variáveis permitiu uma análise abrangente do comportamento comercial no setor de bebidas alcoólicas.
 
 ### Objetivos do Projeto
